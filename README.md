@@ -1,5 +1,5 @@
 # Oversimplication
-Bob is new to crypto world. He wants to do all the amazing things like play games in web3, send any amount of money to anyone accross the world etc, access web3 apps. But he doesn't understand why everything in crypto is so complex. He gets to know about our app coinease. With CoinEase built on top of conflux ecosystem, he can send payments without knowing receiver's chain. He can scan a QR Code and tokens will be transferred. If he is worried he may send tokens to wrong address, we got him covered. He can revert his transactions too! Also, not to mention, he can use google accounts and phone numbers to access this wallet.
+Bob is new to crypto world. He wants to do all the amazing things like play games in web3, send any amount of money to anyone accross the world etc, access web3 apps. But he doesn't understand why everything in crypto is so complex. He gets to know about our app coinease. With CoinEase built on top of conflux ecosystem, he can scan a QR Code and tokens will be transferred. If he is worried he may send tokens to wrong address, we got him covered. He can revert his transactions too! Also, not to mention, he can use google accounts and phone numbers to access this wallet.
 
 He can also buy CFX from anyone around the world, trustlessly! And he can sell any excess CFX too, without going all technical!
 
