@@ -30,7 +30,7 @@ backend deployed on https://http-nodejs-vkx8.vercel.app
 
 # Architecture
 
-![image](https://github.com/raehat/coinease/assets/77321971/98d8e60b-3480-4578-989b-9c204a3e1964)
+![image](https://github.com/raehat/coin_ease/assets/77321971/e9c2fdc0-443c-420d-bb2d-9c9acc5d0347)
 
 # Vision
 Onboarding new users to conflux ecosystem
