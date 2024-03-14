@@ -42,7 +42,7 @@ Our project aims to provide a user-friendly and secure platform for individuals 
 
 # Key Features:
 
-Escrow Service with Cross-Chain Functionality: Our app offers an escrow service allowing users to securely transfer funds within conflux ecosystem. This feature is particularly beneficial for beginners who may inadvertently send tokens to incorrect addresses. Users can revert their transactions before they are claimed by the receiver, mitigating the risk of irreversible mistakes. Additionally, we have implemented QR code-based token transfers. 
+Escrow Service with Cross-Chain Functionality: Our app offers an escrow service allowing users to securely transfer funds within conflux ecosystem. This feature is particularly beneficial for beginners who may inadvertently send tokens to incorrect addresses. Users can revert their transactions before they are claimed by the receiver, mitigating the risk of irreversible mistakes. Additionally, we have implemented QR code-based token transfers. We perform document verification and e-kyc to make sure legit users onboard BUT WE DO NOT STORE ANY INFORMATION ANYWHERE!
 
 Trustless Buy/Sell Crypto with Fiat: To facilitate the acquisition of CFX tokens for users onboarded via Particle Network, our platform offers a trustless buy/sell crypto service using fiat currency. Users can easily purchase native tokens from their bank accounts, providing a seamless transition into the world of cryptocurrencies. Here's how it works:
 
