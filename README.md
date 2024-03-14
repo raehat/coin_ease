@@ -32,6 +32,8 @@ backend deployed on https://http-nodejs-vkx8.vercel.app
 
 ![image](https://github.com/raehat/coin_ease/assets/77321971/e9c2fdc0-443c-420d-bb2d-9c9acc5d0347)
 
+![Group 2 (3)](https://github.com/raehat/coin_ease/assets/77321971/57165b03-a437-45e9-ae58-eac959f42b45)
+
 # Vision
 Onboarding new users to conflux ecosystem
 
