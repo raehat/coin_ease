@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coin Ease</string>
+
+    <string name="yoti_fcm_demo_result_valid_face">Valid face</string>
+    <string name="yoti_fcm_demo_result_error_analysis">Analysis Error</string>
+    <string name="yoti_fcm_demo_result_error_no_face_detected">Face not found</string>
+    <string name="yoti_fcm_demo_result_error_multiple_faces">Multiple faces</string>
+    <string name="yoti_fcm_demo_result_error_too_big">Face too big</string>
+    <string name="yoti_fcm_demo_result_error_too_small">Face too small</string>
+    <string name="yoti_fcm_demo_result_error_not_centered">Face not centered</string>
+    <string name="yoti_fcm_demo_result_error_bad_angle">Bad angle</string>
+    <string name="yoti_fcm_demo_result_error_eyes_closed">Eyes closed</string>
+    <string name="yoti_fcm_demo_result_error_not_stable">Face not stable</string>
+    <string name="yoti_fcm_demo_result_error_too_dark">Too dark environment</string>
+
+    <string name="yoti_fcm_demo_camera_error_illegal_state">Illegal state</string>
+    <string name="yoti_fcm_demo_camera_error_unable_to_resolve">Camera error</string>
+    <string name="yoti_fcm_demo_camera_error_unknown">Error</string>
+</resources>
